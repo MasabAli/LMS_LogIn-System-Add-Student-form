@@ -1,0 +1,31 @@
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.baml
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\App.g.cs
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\dashboard.baml
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\dashboard.g.cs
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\Registration.baml
+C:\Users\Fazal Hans\Documents\Visual Studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\Registration.g.cs
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\WpfApplication2.exe
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\WpfApplication2.pdb
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\WpfApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\dashboard.baml
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\MainWindow.baml
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\Registration.baml
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\dashboard.g.cs
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\Registration.g.cs
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\App.g.cs
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\WpfApplication2.g.resources
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Masab Ali\OneDrive\Desktop\bc170401573\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.GenerateResource.Cache

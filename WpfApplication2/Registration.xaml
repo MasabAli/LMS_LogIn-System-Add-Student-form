@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApplication2.Registration"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Registration" Height="300" Width="566">
+    <Grid Background="#FF1800D5">
+        <DockPanel Height="27" HorizontalAlignment="Left" Margin="76,0,0,0" Name="dockPanel1" VerticalAlignment="Top" Width="395" Background="#FF1800D5">
+            <Label Content="Student Registraion" Height="28" Name="label1" Foreground="White" DataContext="{Binding}" FlowDirection="LeftToRight" Width="117" Background="#FF0000CE" />
+        </DockPanel>
+        <Label Content="Student ID" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="0,40,0,0" Name="label2" VerticalAlignment="Top" Width="96" />
+        <TextBox Focusable="True" Height="23" HorizontalAlignment="Right" Margin="0,40,274,0" Name="std_id" VerticalAlignment="Top" Width="169" DataContext="{Binding}" />
+        <Label Content="Student Name" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="0,0,0,154" Name="label3" VerticalAlignment="Bottom" Width="96" />
+        <TextBox Focusable="True" Height="23" HorizontalAlignment="Right" Margin="0,77,274,0" Name="std_name" VerticalAlignment="Top" Width="169" />
+        <Label Content="CNIC" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="0,0,0,115" Name="label4" VerticalAlignment="Bottom" Width="96" />
+        <TextBox Focusable="True" Height="23" HorizontalAlignment="Right" Margin="0,116,274,0" Name="std_cnic" VerticalAlignment="Top" Width="169" MaxLength="12" />
+        <Label Content="Program" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="0,0,0,75" Name="label5" VerticalAlignment="Bottom" Width="96" />
+        <TextBox Focusable="True" Height="23" HorizontalAlignment="Left" Margin="101,158,0,0" Name="std_program" VerticalAlignment="Top" Width="169" />
+        <Button Content="Close" Height="23" HorizontalAlignment="Left" Margin="199,200,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" Background="#FF00B7AD" />
+        <Button Content="Submit" Height="23" HorizontalAlignment="Left" Margin="105,200,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="button2_Click" Background="#FF00B7AD" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="294,40,0,0" Name="error1" VerticalAlignment="Top" Foreground="#FFEFEF0C" />
+        <Label HorizontalAlignment="Left" Margin="294,77,0,154" Name="error2" Foreground="#FFEFEF0C" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="294,116,0,0" Name="error3" VerticalAlignment="Top" Foreground="#FFEFEF0C" />
+        <Label Height="28" HorizontalAlignment="Stretch" Margin="294,0,24,80" Name="error4" VerticalAlignment="Bottom" Foreground="#FFEFEF0C" />
+    </Grid>
+</Window>

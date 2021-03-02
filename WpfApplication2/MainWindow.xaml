@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfApplication2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="login" Height="546" Width="379" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" WindowStyle="None" Background="Black">
+    <Grid>
+        <Label Content="Login Window" Height="28" HorizontalAlignment="Left" Margin="129,12,0,0" Name="label1" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Foreground="White" FontFamily="Times New Roman" />
+        <Image Height="105" HorizontalAlignment="Left" Margin="112,90,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="178" Source="/WpfApplication2;component/Images/virtual.png" />
+        <Label Content="Username" FontFamily="Times New Roman" FontSize="12" FontWeight="Bold" Foreground="White" Height="28" Margin="12,261,277,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Password" FontFamily="Times New Roman" FontSize="12" FontWeight="Bold" Foreground="White" Height="28" HorizontalAlignment="Left" Margin="12,321,0,0" Name="label3" VerticalAlignment="Top" />
+        <Rectangle Height="1" HorizontalAlignment="Left" Margin="98,276,0,0" Name="rectangle1" Stroke="White" VerticalAlignment="Top" Width="215" />
+        <Rectangle Height="1" HorizontalAlignment="Left" Margin="98,338,0,0" Name="rectangle2" Stroke="White" VerticalAlignment="Top" Width="215" />
+        <TextBox Height="22" HorizontalAlignment="Left" Margin="98,253,0,0" Name="textBox1" VerticalAlignment="Top" Width="213" Background="Black" Foreground="White" BorderBrush="Black" />
+        <TextBox Background="Black" BorderBrush="Black" Foreground="White" Height="22" HorizontalAlignment="Left" Margin="98,316,0,0" Name="textBox2" VerticalAlignment="Top" Width="213" />
+        <Button Content="Login" Height="42" HorizontalAlignment="Left" Margin="98,404,0,0" Name="button1" VerticalAlignment="Top" Width="89" IsCancel="True" Background="#FF0FD0ED" BorderBrush="#FF0FD0ED" FontSize="14" Click="button1_Click" />
+        <Button Background="#FF0FD0ED" BorderBrush="#FF0FD0ED" Content="Exit" FontSize="14" Height="42" HorizontalAlignment="Left" IsCancel="True" Margin="222,404,0,0" Name="button2" VerticalAlignment="Top" Width="89" Click="button2_Click" />
+    </Grid>
+</Window>

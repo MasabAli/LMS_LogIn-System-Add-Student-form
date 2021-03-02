@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApplication2.dashboard"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="dashboard" Height="350" Width="616" WindowStyle="SingleBorderWindow" WindowStartupLocation="CenterOwner" Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid AutoGenerateColumns="False" HorizontalAlignment="Stretch" Name="dataGrid1" VerticalAlignment="Stretch" Background="#FF100FA3" UseLayoutRounding="False" Margin="-14,0,-267,-71" />
+        <Label Content="Learning Management system" Height="28" HorizontalAlignment="Stretch" Margin="12,12,273,0" Name="label1" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Foreground="White" HorizontalContentAlignment="Stretch" UseLayoutRounding="False" IsManipulationEnabled="False" DataContext="{Binding}" Target="{Binding}" />
+        <Label Content="Login as:-" Height="28" HorizontalAlignment="Stretch" Margin="344,14,0,0" Name="label2" VerticalAlignment="Top" Foreground="White" IsEnabled="False" HorizontalContentAlignment="Stretch" />
+        <Label Foreground="White" Height="28" HorizontalAlignment="Stretch" IsEnabled="False" Margin="411,12,0,0" Name="label3" VerticalAlignment="Top" Content=" " Target="{Binding}" HorizontalContentAlignment="Stretch" />
+        <Button Height="99" HorizontalAlignment="Left" Margin="12,55,0,0" Name="button1" VerticalAlignment="Top" Width="169" Click="button1_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/WpfApplication2;component/Images/1.jpg" Stretch="UniformToFill" TileMode="None" />
+            </Button.Background>
+        </Button>
+        <Button Height="99" HorizontalAlignment="Left" Margin="12,160,0,0" Name="button2" VerticalAlignment="Top" Width="169">
+            <Button.Background>
+                <ImageBrush ImageSource="/WpfApplication2;component/Images/2.jpg" Stretch="UniformToFill" TileMode="None" />
+            </Button.Background>
+        </Button>
+    </Grid>
+</Window>
