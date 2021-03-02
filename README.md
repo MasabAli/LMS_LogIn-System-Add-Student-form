@@ -1,2 +1,2 @@
-# LMS_LogIn-System-Add-Student-form
+# LMS_LogIn-System-Add-Students-form
 C# WPF LMS App 
